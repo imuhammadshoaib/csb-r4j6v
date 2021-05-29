@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://imuhammadshoaib.github.io/csb-r4j6v/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/runtime-main.14be17d7.js",
+    "runtime-main.js.map": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/runtime-main.14be17d7.js.map",
+    "static/js/2.2350909c.chunk.js": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://imuhammadshoaib.github.io/csb-r4j6v/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://imuhammadshoaib.github.io/csb-r4j6v/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://imuhammadshoaib.github.io/csb-r4j6v/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14be17d7.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
